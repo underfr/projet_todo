@@ -62,3 +62,24 @@ FOREIGN KEY(task_id)
 REFERENCES task (id);
 
 INSERT INTO `right`(right_name) VALUES ("ROLE_USER"), ("ROLE_ADMIN");
+
+-- Données par défaut de test
+INSERT INTO category(category_name) VALUES ("Travail"), ("Loisir");
+INSERT INTO `account`(firstname, lastname, email, password, right_id) VALUES
+                                                                          ("Jean", "Dupont", "jean.dupont@example.com", "$2y$12$pJSJYPM62diINmmIb7ce0ube6qbV3nHWt1UezQnNgLKI59SAAHpIq", 1),
+                                                                          ("Marie", "Martin", "marie.martin@example.com", "$2y$12$pJSJYPM62diINmmIb7ce0ube6qbV3nHWt1UezQnNgLKI59SAAHpIq", 1);
+INSERT INTO task(title, `description`, created_at, updated_at, finish_on, `status`, `repeat`, account_id) VALUES
+                                                                                                              ("Daily Stand-up", "Point rapide de 15 minutes avec l'équipe de dev.", NOW(), NOW(), '2026-10-26 09:00:00', 1, "Quotidien", 1),
+                                                                                                              ("Rapport de projet", "Compiler les KPI et envoyer le récapitulatif.", NOW(), NOW(), '2026-10-30 17:00:00', 1, "Hebdomadaire", 1),
+                                                                                                              ("Mise à jour BDD", "Vérifier les sauvegardes cloud et logs.", NOW(), NOW(), '2026-11-01 23:00:00', 1, "Mensuel", 1),
+                                                                                                              ("Cours de guitare", "Précision des accords d'intro.", NOW(), NOW(), '2026-10-24 18:00:00', 1, "Quotidien", 1),
+                                                                                                              ("Session running", "Footing de 5km au parc municipal.", NOW(), NOW(), '2026-10-25 10:00:00', 1, "Hebdomadaire", 1);
+INSERT INTO task(title, `description`, created_at, updated_at, finish_on, `status`, `repeat`, account_id) VALUES
+                                                                                                              ("Tri des emails", "Archiver les fils résolus et traiter l'urgence.", NOW(), NOW(), '2026-10-26 08:30:00', 1, "Quotidien", 2),
+                                                                                                              ("Notes de frais", "Rassembler tous les tickets de caisse du mois.", NOW(), NOW(), '2026-10-31 12:00:00', 1, "Mensuel", 2),
+                                                                                                              ("Lecture Roman", "Lire au moins 20 pages avant de dormir.", NOW(), NOW(), '2026-10-23 21:30:00', 1, "Quotidien", 2),
+                                                                                                              ("Meal Prep", "Cuisiner les repas de la semaine à l'avance.", NOW(), NOW(), '2026-10-25 15:00:00', 1, "Hebdomadaire", 2),
+                                                                                                              ("Soirée Jeux de société", "Accueil des amis pour la session mensuelle.", NOW(), NOW(), '2026-11-07 20:00:00', 1, "Mensuel", 2);
+INSERT INTO task_category(task_id, category_id) VALUES
+                                                    (1, 1), (2, 1), (3, 1), (4, 2), (5, 2),
+                                                    (6, 1), (7, 1), (8, 2), (9, 2), (10, 2);
