@@ -1,0 +1,67 @@
+{
+  "validTask": [
+    {
+      "titre": "Guitar Practice",
+      "description": "Practice chord transitions and learn the intro to a new acoustic song for 30 minutes.",
+      "date_echeance": "2026-10-24T09:00",
+      "repetition": "Quotidien",
+      "categorie": "Loisir"
+    },
+    {
+      "titre": "Weekly Project Status Report",
+      "description": "Compile KPIs, update the project roadmap, and email the summary to stakeholders.",
+      "date_echeance": "2026-10-30T09:00",
+      "repetition": "Hebdomadaire",
+      "categorie": "Travail"
+    },
+    {
+      "titre": "Running Session",
+      "description": "5km outdoor jog at the local park to maintain cardio fitness.",
+      "date_echeance": "2026-10-25T09:00",
+      "repetition": "Hebdomadaire",
+      "categorie": "Loisir"
+    },
+    {
+      "titre": "Submit Expense Reports",
+      "description": "Gather all travel and meal receipts from the past month and upload them to the accounting portal.",
+      "date_echeance": "2026-10-31T09:00",
+      "repetition": "Mensuel",
+      "categorie": "Travail"
+    },
+    {
+      "titre": "Board Game Night",
+      "description": "Host friends at home for a monthly strategy board game session.",
+      "date_echeance": "2026-11-07T09:00",
+      "repetition": "Mensuel",
+      "categorie": "Loisir"
+    },
+    {
+      "titre": "Check and Clear Inbox",
+      "description": "Process unread emails, archive resolved threads, and flag urgent client requests.",
+      "date_echeance": "2026-10-26T09:00",
+      "repetition": "Quotidien",
+      "categorie": "Travail"
+    },
+    {
+      "titre": "Database Backup & Maintenance",
+      "description": "Verify automated cloud backups, clean up temporary logs, and test data restoration.",
+      "date_echeance": "2026-11-01T09:00",
+      "repetition": "Mensuel",
+      "categorie": "Travail"
+    },
+    {
+      "titre": "Read a Fiction Book",
+      "description": "Read at least 20 pages of the current sci-fi novel before going to sleep.",
+      "date_echeance": "2026-10-23T09:00",
+      "repetition": "Quotidien",
+      "categorie": "Loisir"
+    },
+    {
+      "titre": "Meal Prep for the Week",
+      "description": "Buy groceries at the local market and cook lunches in advance for the upcoming week.",
+      "date_echeance": "2026-10-25T09:00",
+      "repetition": "Hebdomadaire",
+      "categorie": "Loisir"
+    }
+  ]
+}

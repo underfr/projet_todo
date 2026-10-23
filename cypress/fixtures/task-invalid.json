@@ -1,0 +1,74 @@
+{
+  "invalidTask": [
+    {
+      "titre": "",
+      "description": "Review open pull requests and merge approved feature branches before the end of the sprint.",
+      "date_echeance": "2026-10-24T09:00",
+      "repetition": "Quotidien",
+      "categorie": "Travail"
+    },
+    {
+      "titre": "",
+      "description": "Water indoor plants on the balcony and check soil moisture for the succulents.",
+      "date_echeance": "2026-10-24T09:00",
+      "repetition": "Hebdomadaire",
+      "categorie": "Loisir"
+    },
+    {
+      "titre": "",
+      "description": "Audit server disk usage, rotate Nginx access logs, and verify SSL certificate expiration dates.",
+      "date_echeance": "2026-10-24T09:00",
+      "repetition": "Mensuel",
+      "categorie": "Travail"
+    },
+    {
+      "titre": "",
+      "description": "Do a 20-minute full-body stretching and mobility routine after waking up.",
+      "date_echeance": "2026-10-24T09:00",
+      "repetition": "Quotidien",
+      "categorie": "Loisir"
+    },
+    {
+      "titre": "",
+      "description": "Sync with the product designer to review the new mobile wireframes and UI components.",
+      "date_echeance": "2026-10-24T09:00",
+      "repetition": "Hebdomadaire",
+      "categorie": "Travail"
+    },
+    {
+      "titre": "",
+      "description": "Clean and lubricate the bicycle chain before the weekend trail ride.",
+      "date_echeance": "2026-10-24T09:00",
+      "repetition": "Mensuel",
+      "categorie": "Loisir"
+    },
+    {
+      "titre": "",
+      "description": "Update project dependencies, run security audit checks, and fix broken unit tests.",
+      "date_echeance": "2026-10-24T09:00",
+      "repetition": "Hebdomadaire",
+      "categorie": "Travail"
+    },
+    {
+      "titre": "",
+      "description": "Practice foreign language vocabulary flashcards for 15 minutes during the commute.",
+      "date_echeance": "2026-10-24T09:00",
+      "repetition": "Quotidien",
+      "categorie": "Loisir"
+    },
+    {
+      "titre": "",
+      "description": "Export monthly billing invoices from the payment gateway and send them to the accountant.",
+      "date_echeance": "2026-10-24T09:00",
+      "repetition": "Mensuel",
+      "categorie": "Travail"
+    },
+    {
+      "titre": "",
+      "description": "Sort through digital photos from the past month and back up favorite shots to cloud storage.",
+      "date_echeance": "2026-10-24T09:00",
+      "repetition": "Mensuel",
+      "categorie": "Loisir"
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "invalidUser":
+[
+  {
+    "prenom": "",
+    "nom": "Laurent",
+    "adresse_email": "laurent.contact@example.com",
+    "mot_de_passe": "L@urent2026!z",
+    "confirmation_mot_de_passe": "L@urent2026!z"
+  },
+  {
+    "prenom": "",
+    "nom": "Simon",
+    "adresse_email": "s.simon88@testmail.fr",
+    "mot_de_passe": "S!mon_Pass99#",
+    "confirmation_mot_de_passe": "S!mon_Pass99#"
+  },
+  {
+    "prenom": "",
+    "nom": "Michel",
+    "adresse_email": "michel.dev@webmail.org",
+    "mot_de_passe": "M*chel_2026$x",
+    "confirmation_mot_de_passe": "M*chel_2026$x"
+  },
+  {
+    "prenom": "",
+    "nom": "Lefebvre",
+    "adresse_email": "lefebvre.pro@fakedomain.net",
+    "mot_de_passe": "L3febvr!_4512",
+    "confirmation_mot_de_passe": "L3febvr!_4512"
+  },
+  {
+    "prenom": "",
+    "nom": "Garnier",
+    "adresse_email": "garnier.user@demo-app.io",
+    "mot_de_passe": "G@rnier#8877!",
+    "confirmation_mot_de_passe": "G@rnier#8877!"
+  },
+  {
+    "prenom": "",
+    "nom": "Faure",
+    "adresse_email": "faure.admin@example.fr",
+    "mot_de_passe": "F*ure_Secur3!",
+    "confirmation_mot_de_passe": "F*ure_Secur3!"
+  },
+  {
+    "prenom": "",
+    "nom": "Rousseau",
+    "adresse_email": "rousseau.test@mail-sandbox.com",
+    "mot_de_passe": "R0usseau$2026",
+    "confirmation_mot_de_passe": "R0usseau$2026"
+  },
+  {
+    "prenom": "",
+    "nom": "Blanc",
+    "adresse_email": "blanc.client@testbox.fr",
+    "mot_de_passe": "Bl@nc_Pass74!",
+    "confirmation_mot_de_passe": "Bl@nc_Pass74!"
+  },
+  {
+    "prenom": "",
+    "nom": "Guerin",
+    "adresse_email": "guerin.account@example.org",
+    "mot_de_passe": "Gu3rin!_9630#",
+    "confirmation_mot_de_passe": "Gu3rin!_9630"
+  },
+  {
+    "prenom": "",
+    "nom": "Boyer",
+    "adresse_email": "boyer.qa@devmail.net",
+    "mot_de_passe": "B0yer$Test_11",
+    "confirmation_mot_de_passe": "b0yer$test_11"
+  }
+]
+}

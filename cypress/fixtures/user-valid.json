@@ -1,0 +1,74 @@
+{
+  "validUsers": [
+    {
+      "prenom": "Lucas",
+      "nom": "Martin",
+      "adresse_email": "lucas.martin@example.com",
+      "mot_de_passe": "L#casM2026!x",
+      "confirmation_mot_de_passe": "L#casM2026!x"
+    },
+    {
+      "prenom": "Emma",
+      "nom": "Bernard",
+      "adresse_email": "emma.bernard92@testmail.fr",
+      "mot_de_passe": "EmB$987654!a",
+      "confirmation_mot_de_passe": "EmB$987654!a"
+    },
+    {
+      "prenom": "Hugo",
+      "nom": "Dubois",
+      "adresse_email": "h.dubois.dev@webmail.org",
+      "mot_de_passe": "H*goD_Pass99",
+      "confirmation_mot_de_passe": "H*goD_Pass99"
+    },
+    {
+      "prenom": "Chloé",
+      "nom": "Thomas",
+      "adresse_email": "chloe.thomas@fakedomain.net",
+      "mot_de_passe": "Chl0e!Th_2026",
+      "confirmation_mot_de_passe": "Chl0e!Th_2026"
+    },
+    {
+      "prenom": "Nathan",
+      "nom": "Robert",
+      "adresse_email": "nathan.robert@demo-app.io",
+      "mot_de_passe": "N@thanR#4512",
+      "confirmation_mot_de_passe": "N@thanR#4512"
+    },
+    {
+      "prenom": "Léa",
+      "nom": "Richard",
+      "adresse_email": "lea.richard.pro@example.fr",
+      "mot_de_passe": "L3a_R!chard88",
+      "confirmation_mot_de_passe": "L3a_R!chard88"
+    },
+    {
+      "prenom": "Gabriel",
+      "nom": "Petit",
+      "adresse_email": "g.petit@mail-sandbox.com",
+      "mot_de_passe": "G@bPetit_77!",
+      "confirmation_mot_de_passe": "G@bPetit_77!"
+    },
+    {
+      "prenom": "Manon",
+      "nom": "Durand",
+      "adresse_email": "manon.durand@testbox.fr",
+      "mot_de_passe": "M*nonD_2026$",
+      "confirmation_mot_de_passe": "M*nonD_2026$"
+    },
+    {
+      "prenom": "Arthur",
+      "nom": "Leroy",
+      "adresse_email": "arthur.leroy@example.org",
+      "mot_de_passe": "Arth#rL_9012!",
+      "confirmation_mot_de_passe": "Arth#rL_9012!"
+    },
+    {
+      "prenom": "Camille",
+      "nom": "Moreau",
+      "adresse_email": "camille.moreau@devmail.net",
+      "mot_de_passe": "C@milleM_555!",
+      "confirmation_mot_de_passe": "C@milleM_555!"
+    }
+  ]
+}
